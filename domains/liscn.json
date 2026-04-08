@@ -1,0 +1,13 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+  "domain": "liscn.is-a.dev",
+  "subdomain": "liscn",
+  "owner": {
+    "email": "your-email@example.com",
+    "github": "46832632"
+  },
+  "record": {
+    "CNAME": "46832632.github.io"
+  },
+  "proxied": false
+}
